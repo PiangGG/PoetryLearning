@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PoetryLearning",
+			"Path": "D:\\Code\\UnrealEngineProject\\PoetryLearning\\Source\\PoetryLearning.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PoetryLearningEditor",
+			"Path": "D:\\Code\\UnrealEngineProject\\PoetryLearning\\Source\\PoetryLearningEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
